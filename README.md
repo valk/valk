@@ -50,10 +50,6 @@
 ### Credits
 This project uses the [Brave Search API](https://brave.com/search/api/) for real-time web grounding.
 <br/>
-<img src="https://brave.com/static-assets/images/brave-logo.svg" alt="Powered by Brave" width="120">
-<br/>
-**POWERED BY BRAVE**
-
-<img src="https://brave.com/static-assets/images/brave-logo.svg" alt="Powered by Brave" width="120">
+<img src="https://brave.com/static-assets/images/brave-logo.svg" alt="Brave Logo" width="60">
 <br/>
 **POWERED BY BRAVE**
