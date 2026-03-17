@@ -17,7 +17,7 @@
 
 ### 🧪 Performance Labs (Nebius Academy)
 *I am documenting my deep-dive into AI Performance Engineering here:*
-* [**AI Performance Labs Repo**](#) - Benchmarks, Triton kernel optimizations, and GPU scaling experiments.
+* [**AI Performance Engineering Repo**](https://github.com/valk/ai-performance-engineering) - Benchmarks, Triton kernel optimizations, and GPU scaling experiments.
 
 ---
 
