@@ -9,7 +9,7 @@
 
 ### 🛠️ Public Open Source Projects
 
-#### [rEcomment](https://github.com/valk/rEcomment)
+#### [rEcomment](https://github.com/valk/rEcomment) freely available in Antigravity/Windsurf/Cursor/VSCode marketplaces
 An open-source VS Code extension designed to improve code documentation by rendering Markdown directly within code comments. It helps maintainers and developers visualize rich text, lists, and links without leaving the editor.
 
 ---
