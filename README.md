@@ -7,9 +7,9 @@
 
 ---
 
-## 🛠️ Public Open Source Projects
+### 🛠️ Public Open Source Projects
 
-### [rEcomment](https://github.com/valk/rEcomment)
+#### [rEcomment](https://github.com/valk/rEcomment)
 An open-source VS Code extension designed to improve code documentation by rendering Markdown directly within code comments. It helps maintainers and developers visualize rich text, lists, and links without leaving the editor.
 
 ---
