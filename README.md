@@ -7,6 +7,13 @@
 
 ---
 
+## 🛠️ Public Open Source Projects
+
+### [rEcomment](https://github.com/valk/rEcomment)
+An open-source VS Code extension designed to improve code documentation by rendering Markdown directly within code comments. It helps maintainers and developers visualize rich text, lists, and links without leaving the editor.
+
+---
+
 ### ⚡ AI Infrastructure & Systems Mastery
 * **AI Compute:** Triton, CUDA Kernels, GPU Memory Optimization (HBM3/SRAM), Inference Scaling.
 * **Systems Architecture:** High-Performance Computing (HPC), Distributed Clusters, C++, Go, Rust.
