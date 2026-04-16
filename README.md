@@ -7,10 +7,15 @@
 
 ---
 
-### 🛠️ Public Open Source Projects
+### 🛠️ Featured Projects
 
-#### [rEcomment](https://github.com/valk/rEcomment) freely available in Antigravity/Windsurf/Cursor/VSCode marketplaces
-An open-source VS Code extension designed to improve code documentation by rendering Markdown directly within code comments. It helps maintainers and developers visualize rich text, lists, and links without leaving the editor.
+#### **rEcomment** | [Open VSX](https://open-vsx.org/extension/ValKotlarovHoffman/recomment)
+An advanced rendering engine for IDEs that transforms standard code comments into rich Markdown and LaTeX environments. 
+
+* **Context-Aware Visualization:** Seamlessly renders documentation, mathematical formulas, and checklists directly in the editor.
+* **Workflow Optimized:** Designed for high-performance "vibe-coding" and agentic IDEs like Antigravity, Windsurf, and Cursor.
+* **Privacy-First:** Fully proprietary and optimized for professional system architecture documentation.
+  
 
 ---
 
