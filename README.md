@@ -9,7 +9,7 @@
 
 ### 🛠️ Featured Projects
 
-#### **rEcomment** | [Open VSX](https://open-vsx.org/extension/ValKotlarovHoffman/recomment)
+#### [**rEcomment** | Open VSX](https://open-vsx.org/extension/ValKotlarovHoffman/recomment)
 An advanced rendering engine for IDEs that transforms standard code comments into rich Markdown and LaTeX environments. 
 
 * **Context-Aware Visualization:** Seamlessly renders documentation, mathematical formulas, and checklists directly in the editor.
