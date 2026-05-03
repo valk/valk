@@ -16,15 +16,6 @@ An advanced rendering engine for IDEs that transforms standard code comments int
 * **Workflow Optimized:** Designed for high-performance "vibe-coding" and agentic IDEs like Antigravity, Windsurf, and Cursor.
 * **Privacy-First:** Fully proprietary and optimized for professional system architecture documentation.
   
-
----
-
-### ⚡ AI Infrastructure & Systems Mastery
-* **AI Compute:** Triton, CUDA Kernels, GPU Memory Optimization (HBM3/SRAM), Inference Scaling.
-* **Systems Architecture:** High-Performance Computing (HPC), Distributed Clusters, C++, Go, Rust.
-* **MLOps:** GPU Orchestration, Docker/K8s for AI, Latency-Critical Backend Systems.
-* **Legacy Expertise:** Compiler Design (Lex/Yacc), R&D, Real-time Search, and IoT Data Streams.
-
 ---
 
 ### 🧪 Performance Labs (Nebius Academy)
