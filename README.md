@@ -9,8 +9,15 @@
 
 ### 🛠️ Featured Projects
 
+#### [**squeezer**](https://github.com/valk/squeezer)
+Autonomous Claude Code plugin that works through your project TODOs in the background, escalates only in-doubt decisions via Telegram, and survives 5-hour usage-limit resets automatically.
+
+#### [**recon**](https://github.com/valk/recon)
+Pluggable Model Context Protocol (MCP) server written in Python designed to optimize token consumption and eliminate syntax errors ("syntax hypnosis") for coding agents.
+
 #### [**rEcomment** | Open VSX](https://open-vsx.org/extension/ValKotlarovHoffman/recomment)
 An advanced rendering engine for IDEs that transforms standard code comments into rich Markdown and LaTeX environments. 
+
 
 * **Context-Aware Visualization:** Seamlessly renders documentation, mathematical formulas, and checklists directly in the editor.
 * **Workflow Optimized:** Designed for high-performance "vibe-coding" and agentic IDEs like Antigravity, Windsurf, and Cursor.
