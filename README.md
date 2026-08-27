@@ -10,7 +10,7 @@
 ### 🛠️ Featured Projects
 
 #### [**squeezer**](https://github.com/valk/squeezer)
-Autonomous Claude Code plugin that works through your project TODOs in the background, escalates only in-doubt decisions via Telegram, and survives 5-hour usage-limit resets automatically.
+Work around the clock to squeeze the latest drop of juice from Claude Code. Most of your 5-hour window goes idle once you step away — squeezer keeps working through it instead of letting that paid-for capacity sit unused. A background daemon that works through your project TODOs while you're away or rate-limited, texts you over Telegram, escalates only the in-doubt calls, and survives 5-hour usage resets automatically — with a fully autonomous mode so your nights stay yours.
 
 #### [**recon**](https://github.com/valk/recon)
 Pluggable Model Context Protocol (MCP) server written in Python designed to optimize token consumption and eliminate syntax errors ("syntax hypnosis") for coding agents.
